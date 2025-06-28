@@ -40,11 +40,3 @@ No installation needed — just click and have fun.
 
 ---
 
-## 🛠 Installation
-
-To run locally, simply clone the repo and open the game:
-
-```bash
-git clone https://github.com/yourusername/rock-paper-scissors.git
-cd rock-paper-scissors
-# Open index.html in your browser
